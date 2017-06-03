@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lunch",
+				"lunchTimeEvent"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"algin",
+				"align-content"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"Background",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"semi",
+				"semi-condensed"
+			],
+			[
+				"word-",
+				"word-spacing"
+			],
+			[
+				"bacgkrou",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bacgk",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ling",
+				"lighting-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Yoona/Desktop/skillcrush/election-map/style.css",
+		"/Users/Yoona/Desktop/skillcrush/election-map/index.html",
+		"/Users/Yoona/Desktop/skillcrush/election-map/script.js",
+		"/Users/Yoona/Desktop/skillcrush/election-map/map.js",
+		"/Users/Yoona/Desktop/skillcrush/election-map/thirdpartyscript.js",
+		"/Users/Yoona/Desktop/skillcrush/magic-8-ball/index.html",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/index.html",
+		"/Users/Yoona/Desktop/skillcrush/magic-8-ball/script.js",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/script.js",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/javascript.js",
+		"/Users/Yoona/Desktop/skillcrush/magic-8-ball/style.css",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/js/script.js",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/style.css",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-student-code-files/index.html",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-student-code-files/style.css",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-student-code-files/javascript.js",
+		"/private/var/folders/kh/gjj6f79n3w12pbwtf4dmd10h0000gn/T/TemporaryItems/SaveForWeb/BrowserPreview/BrowserPreview_tmp.html",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/css/style.css",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/index.html",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/advice/yoona-advice.html",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/css/yoona-advice.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-14.01a/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-14.01a/index.html",
+		"/Users/Yoona/Desktop/206-flexbox-project-15.01a/index.html",
+		"/Users/Yoona/Desktop/206-flexbox-project-15.01a/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01/index.html",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01a/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01a/index.html",
+		"/Users/Yoona/Desktop/Unplugged/index.html",
+		"/Users/Yoona/Desktop/Unplugged/css/main.css",
+		"/Users/Yoona/Desktop/Unplugged/faq/index.html",
+		"/Users/Yoona/Desktop/Unplugged/reviews/index.html",
+		"/Users/Yoona/Desktop/Unplugged/reviews/reviews-detail.html",
+		"/Users/Yoona/Desktop/Unplugged/concerts/index.html",
+		"/Users/Yoona/Desktop/Unplugged/about/index.html",
+		"/Users/Yoona/Desktop/Unplugged/news/news-detail.html",
+		"/Users/Yoona/Desktop/Unplugged/about/faq.html",
+		"/Users/Yoona/Desktop/Unplugged/concert/index.html",
+		"/Users/Yoona/Desktop/Unplugged/news/index.html",
+		"/Users/Yoona/Sites/new-project/index.html",
+		"/Users/Yoona/Desktop/RWD-challenge-code-rogue-pickings-starter-module 2/css/main.css",
+		"/Users/Yoona/Desktop/RWD-challenge-code-rogue-pickings-starter-module 2/index.html",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/RWD-challenge-code-rogue-pickings-starter-module 2/css/main.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/RWD-challenge-code-rogue-pickings-starter-module 2/index.html",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/Unplugged/index.html",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/Unplugged/style.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/v03.01-challenge/03-01a-starter/index.html",
+		"/Users/Yoona/Desktop/abril/index.html",
+		"/Users/Yoona/Desktop/abril/css/main.css",
+		"/Users/Yoona/Desktop/fontsite/css/main.css",
+		"/Users/Yoona/Desktop/fontsite/index.html",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/my-site-skillcrush/css/main.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/my-site-skillcrush/index.html",
+		"/Users/Yoona/Desktop/ResponsiveColors/css/style.css",
+		"/Users/Yoona/Desktop/ResponsiveColors/index.html",
+		"/Users/Yoona/Desktop/ResponsiveColors/css/breakdown.css",
+		"/Users/Yoona/Desktop/breakdown.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/v03.01-challenge/03-01a-starter/css/style.css",
+		"/Users/Yoona/Desktop/random/index.html",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/breakpoint.css",
+		"/Users/Yoona/Downloads/v02.03-static-to-fluid-challenge/02-03a-starter-files/index.html",
+		"/Users/Yoona/Downloads/v02.03-static-to-fluid-challenge/02-03a-starter-files/css/style.css",
+		"/Users/Yoona/Downloads/v02.04-static-to-fluid-challenge/02-04a-starter-code/css/style.css",
+		"/Users/Yoona/Downloads/v02.04-static-to-fluid-challenge/02-04a-starter-code/index.html",
+		"/Users/Yoona/Desktop/index.html",
+		"/Users/Yoona/Desktop/206-first-website/index.html",
+		"/Users/Yoona/Sites/my-site-skillcrush/index.html",
+		"/Users/Yoona/Desktop/206-first-website/css/style.css",
+		"/Users/Yoona/Desktop/Sample Enewsletter/css/main.css",
+		"/Users/Yoona/Desktop/Sample Enewsletter/index.html",
+		"/Users/Yoona/Desktop/Sample Enewsletter/main.css",
+		"/Users/Yoona/Desktop/skillcrush-practice-rogue-pickings/css/main.css",
+		"/Users/Yoona/Desktop/skillcrush-practice-rogue-pickings/index.html",
+		"/Users/Yoona/Desktop/new-project/index.html",
+		"/Users/Yoona/Desktop/skillcrush-practice-rogue-pickings/css/index.html",
+		"/Users/Yoona/Desktop/skillcrush-practice-rogue-pickings/main.css",
+		"/Users/Yoona/Desktop/my-site-skillcrush/css/main.css",
+		"/Users/Yoona/Desktop/my-site-skillcrush/index.html",
+		"/Users/Yoona/Sites/Yoonawagener.com/index.html",
+		"/Users/Yoona/Downloads/support.php",
+		"/Applications/Adobe InDesign CC 2015/Resources/CEP/extensions/HTMLPublish/node_modules/aws-sdk/node_modules/xml2js/node_modules/sax/test/issue-47.js",
+		"/Applications/Adobe InDesign CC 2015/Resources/CEP/extensions/HTMLPublish/node_modules/aws-sdk/node_modules/xml2js/node_modules/sax/test/stray-ending.js",
+		"/Volumes/WD COMBO/yoos documents/My Music/iTunes/iTunes Music Library.xml",
+		"/Users/Yoona/Desktop/<!--Begin CTCT Sign-Up Form-->",
+		"/Users/Yoona/Documents/sos.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-config.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"winner",
+			"rgb",
+			"wakeuptimeselector",
+			";\n",
+			"5em",
+			";\n",
+			"top",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "footer.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
