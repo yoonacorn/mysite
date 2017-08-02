@@ -152,6 +152,7 @@ a{
 	text-decoration: none;
 	color: #3b3b3b;
 	font-weight: bold;
+
 }
 
 a:visited{
@@ -249,9 +250,9 @@ a:hover{
     text-align: center;
 }
 
-/*.page-id-47625 .bio p{
-	text-align:center;
-}*/
+.page-id-47625 .site-content .social ul li a{
+	font-weight: normal;
+}
 
 .page-id-47625 .social ul{
 	list-style: none;
@@ -288,6 +289,7 @@ a:hover{
 .project-item h4{
 	font-weight: bold;
 	padding-bottom: 1em;
+	text-align: center;
 	
 }
 
@@ -312,6 +314,11 @@ a:hover{
 
 .page-id-47348 ul{
 	list-style:none;
+}
+
+.page-id-47348 .site-content ul li a{
+	text-decoration: underline;
+	font-weight: normal;
 }
 
 /** BLOG styles **/
