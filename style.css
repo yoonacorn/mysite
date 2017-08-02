@@ -151,6 +151,7 @@ figure, img{
 a{
 	text-decoration: none;
 	color: #3b3b3b;
+	font-weight: bold;
 }
 
 a:visited{
@@ -198,6 +199,7 @@ a:hover{
 	font-size: 1em;
 	line-height: 3em;
 	text-transform: uppercase;
+
 }
 
 #about-hero{
@@ -224,7 +226,6 @@ a:hover{
 	height: 0;
 	color:white;
 }
-
 
 .page-id-47438 .about-me, .services, .contact{
 	text-align:center;
