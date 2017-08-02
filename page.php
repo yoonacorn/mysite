@@ -10,7 +10,7 @@
 get_header(); ?>
 
 <section class="default-page">		
-	<div class="main-content">
+	<div class="site-content">
 		<?php while ( have_posts() ) : the_post(); ?>
  		<!-- 	<h1 class="entry-title"><?php the_title(); ?></h1>  -->
 			<article class="post-entry">

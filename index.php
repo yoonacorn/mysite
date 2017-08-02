@@ -16,25 +16,28 @@
 
 get_header(); ?>
 
-<section class="index-page">		
-	<div class="blog-content">
+<section class="index-page">
+	<div class="blog-hero">
+		<h1 id="hero">Blog</h1>
+	</div>	
+	<div class="site-content">
+		<div class="blog-content">
 		<?php if ( have_posts() ): ?>
 			<?php while ( have_posts() ) : the_post(); ?>
 				<?php get_template_part('content-blog', get_post_format()); ?>
 			<?php endwhile; ?>
-		 <?php endif; ?> 
-	</div>
+		<?php endif; ?> 
+		</div>
 	
 	<?php get_sidebar(); ?>
+	</div>
+</section>	
 
-
-</section>
-
-<?php if ( have_posts() ): ?>
+ <?php if ( have_posts() ): ?> 
 	<div id="navigation" class="container">
         <div class="left"><?php next_posts_link('&larr; <span>Older Posts</span>'); ?></div>
         <div class="right"><?php previous_posts_link('<span>Newer Posts</span> &rarr;'); ?></div>
     </div>
-<?php endif; ?>
+<?php endif; ?> 
 <?php get_footer(); ?>
 

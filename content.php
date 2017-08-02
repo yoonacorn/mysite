@@ -1,3 +1,15 @@
+<?php
+/**
+ *
+ * The template for displaying content
+ *
+ * @package WordPress
+ * @subpackage Yoona_Starter
+ * @since Yoona Starter 1.0
+ */
+?>
+
+
 <article id="post-<?php the_ID(); ?>" class="post-entry">
 	<div class="entry-wrap">
 		<header class="entry-header">

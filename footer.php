@@ -14,7 +14,7 @@
 		</div><!-- #main -->
 	</div><!-- #page -->
 		<footer class="main-footer">
-			<p>&copy; 2017 Yoona Wagener</p>
+			<p>&copy;2017 Yoona Wagener</p>
 		</footer>	
 	<?php wp_footer(); ?>
 
