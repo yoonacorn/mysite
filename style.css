@@ -665,10 +665,12 @@ font-size: .8em
 }
 }
 /***TABLET STYLES***/
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
 
 /** MAIN **/
-
+#sidebar{
+		display:none;
+	}
 
 .site-content{
 	width: 80%;
@@ -686,17 +688,17 @@ font-size: .8em
     padding-left: 50px;
 }
 
-	
+.page-header .top-logo .title{
+	font-size:2em;
+}
+
+.page-header .top-logo .sub-title{
+padding-left:44px
+font-size: .8em
+}	
 /** Blog **/
 
-.blog-content {
-    float: left;
-    clear:both;
-    width: 51%;
-	padding: 2em 2em 1em 3em;    
-}  
 	
-
 .project-section ul li{
 	list-style: none;
 }
@@ -709,91 +711,6 @@ font-size: .8em
 	text-align: left;
 }	
 
-/** sidebar **/
-#sidebar {
-	border-left: 1px solid #cccccc;
-	float: left;
-	width: 49%;
-}
-
-#sidebar {
-	padding-top: 20px;
-	text-align: center;
-}
-
-#sidebar h2 {
-	font-size: 1.4em;
-	color: #698B97;
-}
-
-#sidebar li {
-	list-style-type: none;
-}
-#sidebar p {
-	margin-bottom: 20px;
-}
-#sidebar .widget {
-	padding: 28px 31px;
-}
-
-#sidebar .widget_text img {
-	max-width: 175px;
-	margin: auto;
-	display: block;
-	
-}
-#sidebar .widget_text a {
-	color: #3b3b3b;
-	font-weight: 700;
-	text-decoration: underline;
-}
-/*#sidebar .widget_search {
-	border-bottom: 1px solid #BFBFBF;
-}*/
-
-/*#sidebar .widget_search #searchform{
-	padding-left:13%;
-	
-}*/
-#sidebar .widget_search input[type="text"] {
-	border: 1px solid #a6a6a6;
-	width: 120px;
-	height: 27px;
-	padding: 8px;
-	vertical-align: middle;
-	text-transform: uppercase;
-}
-
-#sidebar .widget_search .fa{
-	font-size: 1.9em;
-	color: #3b3b3b;
-
-}
-
-#sidebar .widget_search button{
-	border: #fff;
-	background: #fff;
-}
-
-#sidebar .widget_categories {
-	padding: 28px 31px 0 31px;
-}
-#sidebar .widget_categories h3,
-#sidebar .widget_archive h3 {
-	color: #0073aa;
-	margin-bottom: 20px;
-/*	text-align: center;*/
-}
-#sidebar .widget_categories ul li,
-#sidebar .widget_archive ul li {
-	color: #3b3b3b;
-	margin-bottom: 15px;
-/*	text-align: center;*/
-}
-#sidebar .widget_categories ul li a,
-#sidebar .widget_archive ul li a {
-	color: #3b3b3b;
-}
 
 
 
@@ -1034,12 +951,101 @@ font-size: .8em
 .blog-content {
     width: 60%;
     margin-right: 0;
+    float:left;
+    clear:both;
+	padding: 2em 2em 1em 3em;    
 }  
+ 
 
 .blog-hero{
 	height: 400px;
 }
 
+/** sidebar **/
+#sidebar {
+	border-left: 1px solid #cccccc;
+	float: left;
+	width: 49%;
+}
+
+#sidebar {
+	padding-top: 20px;
+	text-align: center;
+}
+
+#sidebar h2 {
+	font-size: 1.4em;
+	color: #698B97;
+}
+
+#sidebar li {
+	list-style-type: none;
+}
+#sidebar p {
+	margin-bottom: 20px;
+}
+#sidebar .widget {
+	padding: 28px 31px;
+}
+
+#sidebar .widget_text img {
+	max-width: 175px;
+	margin: auto;
+	display: block;
+	
+}
+#sidebar .widget_text a {
+	color: #3b3b3b;
+	font-weight: 700;
+	text-decoration: underline;
+}
+/*#sidebar .widget_search {
+	border-bottom: 1px solid #BFBFBF;
+}*/
+
+/*#sidebar .widget_search #searchform{
+	padding-left:13%;
+	
+}*/
+#sidebar .widget_search input[type="text"] {
+	border: 1px solid #a6a6a6;
+	width: 120px;
+	height: 27px;
+	padding: 8px;
+	vertical-align: middle;
+	text-transform: uppercase;
+}
+
+#sidebar .widget_search .fa{
+	font-size: 1.9em;
+	color: #3b3b3b;
+
+}
+
+#sidebar .widget_search button{
+	border: #fff;
+	background: #fff;
+}
+
+#sidebar .widget_categories {
+	padding: 28px 31px 0 31px;
+}
+#sidebar .widget_categories h3,
+#sidebar .widget_archive h3 {
+	color: #0073aa;
+	margin-bottom: 20px;
+/*	text-align: center;*/
+}
+#sidebar .widget_categories ul li,
+#sidebar .widget_archive ul li {
+	color: #3b3b3b;
+	margin-bottom: 15px;
+/*	text-align: center;*/
+}
+#sidebar .widget_categories ul li a,
+#sidebar .widget_archive ul li a {
+	color: #3b3b3b;
+}
 
 #sidebar{
 	width:30%;
