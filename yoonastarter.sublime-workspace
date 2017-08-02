@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration-style"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"lunch",
+				"lunchTimeEvent"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"algin",
+				"align-content"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"Background",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"semi",
+				"semi-condensed"
+			],
+			[
+				"word-",
+				"word-spacing"
+			],
+			[
+				"bacgkrou",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bacgk",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ling",
+				"lighting-color"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 12888,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "front-page.php",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter"
+	],
+	"file_history":
+	[
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/front-page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/index.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/category.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/searchform.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/search.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/functions.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/sidebar.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/footer.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/css/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/single.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/content.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/content-blog.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/yoonastarter/header.php",
+		"/Users/Yoona/Desktop/main.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/v03.01-challenge/03-01a-starter/css/style.css",
+		"/Users/Yoona/Sites/election-map/style.css",
+		"/Applications/MAMP/htdocs/wordpress-yoonawrites 10.08.16 AM/wp-content/themes/twentythirteen/style.css",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/css/style.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/ResponsiveColors/css/style.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/Unplugged/css/style.css",
+		"/Users/Yoona/Desktop/103-project-HTML-jpegs-PSD/HTML/css/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/crawford-child/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/twentyseventeen/style.css",
+		"/Users/Yoona/Desktop/WordPress Backups/2017-05-18/wp-content/themes/crawford-child/style.css",
+		"/Users/Yoona/Desktop/WordPress Backups/2017-05-18/wp-content/themes/twentyseventeen/style.css",
+		"/Users/Yoona/Downloads/skillcrush-103-solutions-01-skillcrushstarter 2/skillcrushstarter/style.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/v02.04-static-to-fluid-challenge/02-04b-challenge-solution/css/style.css",
+		"/Users/Yoona/Documents/Skillcrush/Practice Code/v02.04-static-to-fluid-challenge/02-04a-starter-code/css/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/style.css",
+		"/Users/Yoona/Desktop/unicorn/style.css",
+		"/Users/Yoona/Desktop/unicorns/css/style.css",
+		"/Users/Yoona/Desktop/unicorn/single.php",
+		"/Users/Yoona/Desktop/unicorn/sidebar.php",
+		"/Users/Yoona/Desktop/unicorn/searchform.php",
+		"/Users/Yoona/Desktop/unicorn/page.php",
+		"/Users/Yoona/Desktop/unicorn/index.php",
+		"/Users/Yoona/Desktop/unicorn/header.php",
+		"/Users/Yoona/Desktop/unicorns/functions.php",
+		"/Users/Yoona/Desktop/unicorns/footer.php",
+		"/Users/Yoona/Desktop/unicorn/content.php",
+		"/Users/Yoona/Desktop/unicorn/content-blog.php",
+		"/Users/Yoona/Desktop/unicorn/comments.php",
+		"/Users/Yoona/Desktop/unicorn/category.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/category.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/unicorn/css/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/twentyseventeen/search.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/index.php",
+		"/Users/Yoona/Desktop/signsofgrowth/index.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/css/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/sidebar.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/single.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/functions.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/category.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/crawford/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/crawford/content-none.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/crawford/content.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/crawford/index.php",
+		"/Users/Yoona/Downloads/skillcrush-103-solutions-01-skillcrushstarter 2/skillcrushstarter/index.php",
+		"/Users/Yoona/Downloads/style 10.17.10 AM.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/index.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/style.css",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/header.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/searchform.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/header.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/front-page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/comments.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/footer.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/content.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/signsofgrowth/content-blog.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/css/style.css",
+		"/Users/Yoona/Desktop/skillcrush/206-flexbox-project-14.01a/index.html",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/single.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/front-page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/functions.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/sidebar.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/index.php",
+		"/Users/Yoona/Desktop/front-page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/about-page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/content-blog.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/about-me-page.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/footer.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/page-about.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/content.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/comments.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/twentyseventeen/front-page.php",
+		"/Users/Yoona/Downloads/BlogPageChallenge/content.php",
+		"/Users/Yoona/Sites/wordpress/wp-content/themes/skillcrushstarter/blog.html",
+		"/Users/Yoona/Desktop/skillcrush/election-map/style.css",
+		"/Users/Yoona/Desktop/skillcrush/election-map/index.html",
+		"/Users/Yoona/Desktop/skillcrush/election-map/script.js",
+		"/Users/Yoona/Desktop/skillcrush/election-map/map.js",
+		"/Users/Yoona/Desktop/skillcrush/election-map/thirdpartyscript.js",
+		"/Users/Yoona/Desktop/skillcrush/magic-8-ball/index.html",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/index.html",
+		"/Users/Yoona/Desktop/skillcrush/magic-8-ball/script.js",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/script.js",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/javascript.js",
+		"/Users/Yoona/Desktop/skillcrush/magic-8-ball/style.css",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/js/script.js",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-clock/style.css",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-student-code-files/index.html",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-student-code-files/style.css",
+		"/Users/Yoona/Desktop/skillcrush/lolcat-student-code-files/javascript.js",
+		"/private/var/folders/kh/gjj6f79n3w12pbwtf4dmd10h0000gn/T/TemporaryItems/SaveForWeb/BrowserPreview/BrowserPreview_tmp.html",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/index.html",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/advice/yoona-advice.html",
+		"/Users/Yoona/Desktop/skillcrush/skillcrush-104/css/yoona-advice.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-14.01a/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-14.01a/index.html",
+		"/Users/Yoona/Desktop/206-flexbox-project-15.01a/index.html",
+		"/Users/Yoona/Desktop/206-flexbox-project-15.01a/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01/index.html",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01a/css/main.css",
+		"/Users/Yoona/Desktop/206-flexbox-project-13.01a/index.html",
+		"/Users/Yoona/Desktop/Unplugged/index.html",
+		"/Users/Yoona/Desktop/Unplugged/css/main.css",
+		"/Users/Yoona/Desktop/Unplugged/faq/index.html",
+		"/Users/Yoona/Desktop/Unplugged/reviews/index.html",
+		"/Users/Yoona/Desktop/Unplugged/reviews/reviews-detail.html",
+		"/Users/Yoona/Desktop/Unplugged/concerts/index.html",
+		"/Users/Yoona/Desktop/Unplugged/about/index.html",
+		"/Users/Yoona/Desktop/Unplugged/news/news-detail.html",
+		"/Users/Yoona/Desktop/Unplugged/about/faq.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"img",
+			"category",
+			"q",
+			"search",
+			"category",
+			"anti",
+			"blog-content",
+			"blog",
+			"#45ac9d",
+			"page-header",
+			"home",
+			"nav",
+			"background",
+			"skillcrush",
+			"skill",
+			"header",
+			"side",
+			"style",
+			"social",
+			"list-style",
+			"ul",
+			"search",
+			"list",
+			"page",
+			"main",
+			"article",
+			"header",
+			"p{",
+			"p",
+			"article",
+			"h1",
+			"content",
+			"menu",
+			"h1",
+			"footer",
+			"content",
+			"header",
+			"montser",
+			"header",
+			"blog",
+			"page-header",
+			"header",
+			"btn",
+			"header",
+			"main",
+			"about",
+			"post-entry img",
+			"header",
+			"site-main",
+			"front",
+			"btn",
+			"social",
+			"sidebar",
+			"montserrat",
+			"open sans",
+			"winner",
+			"rgb",
+			"wakeuptimeselector",
+			";\n",
+			"5em",
+			";\n",
+			"top",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11342,
+								11342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9274.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "front-page.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "yoonastarter.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
