@@ -9,15 +9,13 @@
  */
 get_header(); ?>
 
-<div class="not-found">
-	<div id="primary" class="site-content">
-		<div id="content" role="main">
+<section class="error-page">
+	<div class="site-content">
+		<div class="not-found">
+				<h2 class="not-found-h2">Baaah...</h2>
+				<p class="not-found-p">Lost our way.<br/> Let's head <a href="<?php echo home_url(); ?>/">home</a>.</p>
+		</div>
+	</div>		
+</section><!-- #content -->
 
-	
-				<h2 class="not-found-h2">Whoops...</h2>
-	
-					<p class="not-found-p"><br/>Feeling a little sheepish about this. Maybe what you're looking for is over on the <a href="<?php echo home_url(); ?>/blog">blog</a> or on the <a href="<?php echo home_url(); ?>/projects">projects</a> page.</p>
-			</div>
-		</div><!-- #content -->
-	</div><!-- #primary -->
 
