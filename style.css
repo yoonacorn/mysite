@@ -715,30 +715,6 @@ font-size: .8em
 */
 
 
-
-/**Category Page**/
-
-.category .main-content{
-	float:left;
-	width: 51%;
-	padding: 0 2em;
-}
-.category .main-content  h1{
-	font-style:italic;
-	font-size: 1.5em;
-	margin: 1em;
-
-}
-
-.category .main-content h1 span{
-	color: #ff9800;
-	text-transform: uppercase;
-}
-
-
-
-
-
 }
 
 /***Desktop Styles**/
@@ -1040,6 +1016,25 @@ font-size: .8em
 #sidebar{
 	width:30%;
 }
+
+/**Category Page**/
+
+.category-page #main-content{
+	float:left;
+	width: 65%;
+	padding: 0 2em;
+}
+.category-page #main-content .page-title{
+	font-style:italic;
+	margin: 1em;
+
+}
+
+.category-page #main-content .page-title span{
+	color: #ff9800;
+	text-transform: uppercase;
+}
+
 
 /** 404 page **/
 

@@ -19,7 +19,7 @@ get_header(); ?>
 	<?php endif; ?> -->
  
 	<div id="main-content" class="main-content">
-	<h1 class="page-title"><?php printf( __( 'Posts categorized as <span>%s</span>', 'yoonastarter' ), single_cat_title( '', false ) ); ?></h1>
+	<h3 class="page-title"><?php printf( __( 'Posts categorized as <span>%s</span>', 'yoonastarter' ), single_cat_title( '', false ) ); ?></h3>
 		<?php if ( have_posts() ) : ?>
 			<?php while ( have_posts() ) : the_post(); ?>
 				<?php get_template_part( 'content-blog', get_post_format() ); ?>
