@@ -67,7 +67,7 @@ get_header(); ?>
 		</div>
 		<div class="contact-info">
 			<p><?php echo $contact_text; ?></p>
-			<p><a href="http://localhost:8888/wordpress/about-me#contact">Let's Connect</a></p>
+			<p><a href="http://yoonawagener.com/about-me#contact">Let's Connect</a></p>
 	</div>			
 		
 
