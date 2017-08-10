@@ -28,7 +28,7 @@ function yoonastarter_setup() {
 	// Register Menus 
 	register_nav_menus ( array (
 		'primary-menu' => __( 'Primary Menu', 'yoonastarter' ),
-		'secondary' => __( 'Secondary Menu', 'yoonastarter' ),  
+		'mobile-menu' => __( 'Mobile Menu', 'yoonastarter' ),  
 	) );
 }
 
@@ -98,34 +98,30 @@ function SearchFilter($query)
 add_filter('pre_get_posts','SearchFilter');
 
 
-// function create_custom_post_types() {
-//     register_post_type( 'projects',
-//         array(
-//             'labels' => array(
-//                 'name' => __( 'Projects' ),
-//                 'singular_name' => __( 'Project' )
-//             ),
-//             'public' => true,
-//             'has_archive' => true,
-//             'rewrite' => array( 'slug' => 'projects' ),
-//         )
-//     );
+function create_custom_post_types() {
+    register_post_type( 'projects',
+        array(
+            'labels' => array(
+                'name' => __( 'Projects' ),
+                'singular_name' => __( 'Project' )
+            ),
+            'public' => true,
+            'has_archive' => true,
+            'rewrite' => array( 'slug' => 'projects' ),
+        )
+    );
+}
+add_action( 'init', 'create_custom_post_types' );
+
+
+// function extra_setup() {
+// register_nav_menu ('primary mobile', __( 'Navigation Mobile', 'yoonastarter' ));
 // }
-// add_action( 'init', 'create_custom_post_types' );
+// add_action( 'after_setup_theme', 'extra_setup' );
 
 
-function extra_setup() {
-register_nav_menu ('primary mobile', __( 'Navigation Mobile', 'yoonastarter' ));
-}
-add_action( 'after_setup_theme', 'extra_setup' );
 
-
-function set_container_class ($args) {
-$args['container_class'] = str_replace(' ','-',$args['theme_location']).'-nav'; return $args;
-}
-add_filter ('wp_nav_menu_args', 'set_container_class');
-
-
+//Add Body Class for Projects
 add_filter( 'body_class','yoonastarter_body_classes' );
 function yoonastarter_body_classes( $classes ) {
  
@@ -136,3 +132,5 @@ function yoonastarter_body_classes( $classes ) {
     return $classes;
      
 }
+
+

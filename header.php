@@ -26,14 +26,23 @@
 <body <?php body_class(); ?>>
 
 	<div id="page" class="hfeed site">
-		<header class="page-header container">
-			<div class="logo">	
+		<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<div class="top-logo">	
 				<a href="<?php echo site_url(); ?>" class="top-logo">
 				<span class="title"><?php bloginfo('name'); ?></span></a>
-			</div>	
-		<nav class="top-nav">
-		 	<?php wp_nav_menu(array('theme_location' => 'primary-menu')); ?> 
-		</nav>
+			</div>
+			
+		<nav class="top-nav" id="primary">
+		 	 <?php wp_nav_menu(array('theme_location' => 'primary-menu')); ?>
+		 	 </nav>   
+		<nav id="mobile-menu">
+				<a href="#" id="menu-icon"><i class="fa fa-bars"></i></a>
+				<?php wp_nav_menu(array('theme_location' => 'mobile-menu')); ?> </nav>
+						 	 <div class="clearfix"></div>
+				
+	</div>	
+				<!-- 	</nav> -->
 			
 		 	
 

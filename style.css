@@ -165,43 +165,57 @@ a:hover{
 	color:#0073aa;
 }
 
-/*.page-header{
-	background: url('img/typewriter.jpg');
-	background-size: cover;
-}*/
-  
-.page-header .top-logo {
-	text-align:center;
+#masthead{
+	background: #698B97;
+	height:3em;
 }
-.page-header .top-logo .title {
+.top-logo {
+	color: inherit;
+	float: left;
+	text-decoration: none;
+}
+
+.top-logo .title {
 	color: whitesmoke;
 	font: bold 2em/1.3125 'Lobster', cursive, Arial, serif;
 	display: block;
 	text-transform: lowercase;
 	background: #698B97;
+	padding-left: .4em;
 }
 
 
-.page-header .top-nav ul{
-	text-align: center;
-	width:100%;
-	margin: 0 0 2em 0;
+/*Responsive Menu*/
 
-}
-.page-header .top-nav ul li {
-	display: block;
-	margin:0;
-	border-bottom: 1px solid #eee;
-}
+@media screen and (min-width: 768px) {
 
-
-.page-header .top-nav ul li a {
-	color: inherit;
-	font-size: 1em;
-	line-height: 3em;
+#menu-item-47639,
+#menu-item-47554,
+#menu-item-47618,
+#menu-item-47456
+{
+	display:inline-block;
+	margin: 0 auto;
+	padding-right: 1em;
+	font-size: 1.2em;
 	text-transform: uppercase;
+}
+
+#menu-main-menu{
+	float:right;
+}
+
+#menu-main-menu a{
+	color:whitesmoke;
 
 }
+#mobile-menu{
+	display:none;
+
+}
+
+}
+
 
 #about-hero{
 	color: inherit;
@@ -224,9 +238,23 @@ a:hover{
 /** HOMEPAGE styles **/
 
 .page-id-47438 .homepage-hero{
-	height: 0;
-	color:white;
+	background: url('img/red-wall.jpg') no-repeat;
+	background-size: cover;
+	padding-top: 3em;
+	height:200px;
+    color: white;
+    text-transform: lowercase;
+    text-align: center;
 }
+
+.homepage-hero h3{
+	font-size: 1.2em;
+}
+.page-id-47438 h1{
+	font-size: 3em;
+	font-family: 'Lobster', cursive, Arial, serif;
+}
+
 
 .page-id-47438 .about-me, .services, .contact{
 	text-align:center;
@@ -461,13 +489,6 @@ a:hover{
 	border-bottom: 0;
 }
 
-.post-entry .project-section ul li a{
-	color:#3b3b3b;
-}
-.post-entry .project-section ul li a:hover{
-	color: #0073aa;
-
-}
 /* end BLOG styles */
 
 
@@ -487,6 +508,7 @@ a:hover{
 }
 #navigation .left {
 	float: left;
+	clear:both;
 }
 #navigation .right {
 	float: right;
@@ -625,7 +647,7 @@ a:hover{
 .error-page{
 	background: url("img/sheep-winter.jpg") no-repeat;
 	background-size: cover; 
-	height:400px;
+	height:940px;
 
 }
 
@@ -651,6 +673,48 @@ a:hover{
    Media Queries for Responsive Design.
    ========================================================================== */
 @media screen and (max-width: 767px){
+
+#menu-icon{
+	width:40px;
+	height:40px;
+	display:block;
+	background: #698B97;
+	color: #fff;
+	float:right;
+	text-align:center;
+	text-decoration: none;
+	font-size: 2em;
+}
+
+nav ul, nav:active ul{
+	display: none;
+	position: absolute;
+	padding: 12px;
+	background: rgba(105, 139, 151, 0.93);
+	margin: 43px 0;
+	width: 100%;
+}
+
+nav li {
+	list-style-type:none;
+	text-align: right;
+	width: 100%;
+	padding: 10px 0;
+	margin: 0;
+	font-size: 1.4em;
+	text-transform: uppercase;
+}
+
+nav li a{ 
+	color:whitesmoke !important; 
+	text-decoration:none !important; 
+	display:block
+}
+
+nav:hover ul { 
+	display: block; 
+}
+
 #sidebar{
 		display:none;
 	}
@@ -669,8 +733,12 @@ font-size: .8em
 
 /** MAIN **/
 
+#primary-menu{
+	display:none;
+}
 .site-content{
 	width: 80%;
+	min-height: 645px;
 }
 .page-header{
 	padding:0;
@@ -680,19 +748,6 @@ font-size: .8em
 	font-size:1em;
 }
 
-/*.page-header .top-logo .title {
-    font: bold 1.8em/1.3125 'Lobster', cursive, Arial, serif;
-    padding-left: 50px;
-}*/
-
-/*.page-header .top-logo .title{
-	font-size:2em;
-}
-
-.page-header .top-logo .sub-title{
-padding-left:44px
-font-size: .8em
-}	*/
 
 /** Blog **/
 
@@ -705,20 +760,13 @@ font-size: .8em
 	list-style: none;
 }
 
-/*.post-entry .project-section{
-	float:right;
-	width:55%;
-}
-.post-entry .project-title h2{
-	text-align: left;
-}	
-*/
-
 
 }
 
 /***Desktop Styles**/
 @media screen and (min-width: 940px) {
+
+
 #about-hero{
 	color: inherit;
 	font-size: 5em;
@@ -737,56 +785,12 @@ font-size: .8em
 }	
 
 
-
-.logo{
-	float:left;
-	clear:both;
-}
-.page-header .top-logo{
-	text-align: left;
-}
-
-.primary-menu-nav{
-	margin: 0;
-	display:all;
-
-}
-
-.page-header .top-nav ul li{
-	display: inline;
-	text-align: right;
-	border-bottom: 0;
-	margin: 1em;
-	color:white;
-}
-
-.page-header .top-logo .title{
-	font-size:1.8em;
-    font: bold 2em/1.3125 'Lobster', cursive, Arial, serif;
-    display: block;
-    text-transform: lowercase;
-    padding-left: 50px;
-
-}
-
-.page-header .top-logo .sub-title{
-    padding-left: 220px;
-    font-size: 1.3em;
-    line-height: 3em;
-}
-
 #sidebar .widget_search input[type="text"]{
 	width: 152px;
 	height: 36px;
 }
 
-.page-header .top-nav ul {
-    text-align: right;
-    background: #698B97;
-    width: 100%;
-    margin: 0;
-    padding:0;
-}
+
 
 
 /** HOME **/
@@ -795,33 +799,26 @@ font-size: .8em
 	width:400px;
 }
 .page-id-47438 .homepage-hero{
-	background: url('img/red-wall.jpg') no-repeat;
-	background-size: cover;
 	height: 800px;
-	padding-top: 10em;
+	padding-top: 13em;
+
 }
 
 .page-id-47438 h1{
 	font-size: 6em;
-	font-family: 'Lobster', cursive, Arial, serif;
 }
 
-
- .page-id-47438 .homepage-hero{
-    color: white;
-    text-transform: lowercase;
-    text-align: center;
+.page-id-47438 h3{
+	font-size: 2em;
 }
-
 	
- .page-id-47438 .about-me, .contact, .services{
+.page-id-47438 .about-me, .contact, .services{
 	float:left;
 	display: inline-block;
 	width: 33%;
 	padding: 10px 13px;
 	border-bottom: none;
 }
-
 
  .page-id-47438 .description p, .service-items p, .contact-info p{
 	margin: 0;
@@ -853,14 +850,8 @@ font-size: .8em
 }
 
 .page-id-47625 .bio{
-/*	float:left;
-	clear: both;
-	width: 65%;*/
 	border-bottom: .5px dotted #698B97;
-/*    line-height: 1em;*/
-/*    padding-right: 3em;*/
 	padding: 0 0 2em 0;
-/*    margin: 2em 0;*/
 }	
 
 
@@ -1036,12 +1027,6 @@ font-size: .8em
 }
 
 
-/** 404 page **/
-
-.error-page{
-	height:800px;
-
-}
 
 
 
