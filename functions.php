@@ -98,27 +98,6 @@ function SearchFilter($query)
 add_filter('pre_get_posts','SearchFilter');
 
 
-function create_custom_post_types() {
-    register_post_type( 'projects',
-        array(
-            'labels' => array(
-                'name' => __( 'Projects' ),
-                'singular_name' => __( 'Project' )
-            ),
-            'public' => true,
-            'has_archive' => true,
-            'rewrite' => array( 'slug' => 'projects' ),
-        )
-    );
-}
-add_action( 'init', 'create_custom_post_types' );
-
-
-// function extra_setup() {
-// register_nav_menu ('primary mobile', __( 'Navigation Mobile', 'yoonastarter' ));
-// }
-// add_action( 'after_setup_theme', 'extra_setup' );
-
 
 
 //Add Body Class for Projects
