@@ -46,7 +46,7 @@ get_header(); ?>
 		<section class="projects" id="content">
 				<div class="project-1 project-item">
 					<h4><?php echo $project_1; ?></h4>
-					<a href="<?php echo $project_1_link; ?>" target="_blank"><?php if($project_1_img) {echo wp_get_attachment_image( $project_1_img, $size );}?></a>
+					<a href="<?php echo $project_1_link; ?>" target="_blank" rel="noopener noreferrer"><?php if($project_1_img) {echo wp_get_attachment_image( $project_1_img, $size );}?></a>
 					<p><?php echo $project_1_description; ?></p>
 				</div>
 
@@ -70,13 +70,13 @@ get_header(); ?>
 		
 				<div class="project-5 project-item">
 					<h4><?php echo $project_5; ?></h4>
-					<a href="<?php echo $project_5_link; ?>" target="_blank"><?php if($project_5_img) {echo wp_get_attachment_image( $project_5_img, $size );}?></a>
+					<a href="<?php echo $project_5_link; ?>" target="_blank" rel="noopener noreferrer"><?php if($project_5_img) {echo wp_get_attachment_image( $project_5_img, $size );}?></a>
 					<p><?php echo $project_5_description; ?></p>
 				</div>
 
 				<div class="project-6 project-item">
 					<h4><?php echo $project_6; ?></h4>
-					<a href="<?php echo $project_6_link; ?>" target="_blank"><?php if($project_6_img) {echo wp_get_attachment_image( $project_6_img, $size );}?></a>
+					<a href="<?php echo $project_6_link; ?>" target="_blank" rel="noopener noreferrer"><?php if($project_6_img) {echo wp_get_attachment_image( $project_6_img, $size );}?></a>
 					<p><?php echo $project_6_description; ?></p>
 				</div>
 
