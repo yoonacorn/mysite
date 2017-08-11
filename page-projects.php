@@ -80,7 +80,7 @@ get_header(); ?>
 					<p><?php echo $project_6_description; ?></p>
 				</div>
 
-		</section>	
+		</section>
 	
 
 
