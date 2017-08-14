@@ -190,7 +190,7 @@ a:hover{
 @media screen and (min-width: 768px) {
 
 #menu-item-47639,
-#menu-item-47554,
+#menu-item-47757,
 #menu-item-47618,
 #menu-item-47456
 {
@@ -635,15 +635,22 @@ a:hover{
 	color:white;
 	text-align:center;
 	padding-top:5px;
+	margin-top: 1em 0;
 	clear:both;
+	height:2em;
 }
 
-.main-footer p{
-	margin-bottom:0;
+.main-footer ul{
+	margin:0;
+}
+.main-footer li{
+	display:inline;
+	list-style: none;
+	margin:0;
 
 }
 
-.main-footer span{
+.main-footer .credit{
 	font-size: .9em;
 	font-style: italic;
 }
@@ -738,8 +745,15 @@ padding-left:44px
 font-size: .8em
 }
 
-.main-footer span{
+.main-footer{
+	height:3em;
+	padding-top: 0;
+}
+.main-footer li{
 	display:block;
+}
+.main-footer span{
+	display: none;
 }
 
 }

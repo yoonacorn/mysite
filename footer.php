@@ -14,7 +14,11 @@
 		</div><!-- #main -->
 	</div><!-- #page -->
 		<footer class="main-footer">
-			<p>&copy; 2017 yoonawagener.com | <span>Code+Design by Yoona Wagener</span></p>
+			<ul>
+				<li>&copy; 2017 yoonawagener.com</li>
+				 <li><span>|</span></li>
+				 <li class="credit">Code & Design by Yoona Wagener</li>
+			</ul>	 
 		</footer>	
 	<?php wp_footer(); ?>
 
