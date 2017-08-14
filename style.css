@@ -190,7 +190,7 @@ a:hover{
 @media screen and (min-width: 768px) {
 
 #menu-item-47639,
-#menu-item-47757,
+#menu-item-47554,
 #menu-item-47618,
 #menu-item-47456
 {
@@ -640,7 +640,14 @@ a:hover{
 
 .main-footer p{
 	margin-bottom:0;
+
 }
+
+.main-footer span{
+	font-size: .9em;
+	font-style: italic;
+}
+
 
 /*404 Page*/
 
@@ -730,6 +737,11 @@ nav:hover ul {
 padding-left:44px
 font-size: .8em
 }
+
+.main-footer span{
+	display:block;
+}
+
 }
 /***TABLET STYLES***/
 @media screen and (min-width: 768px) and (max-width: 940px) {
