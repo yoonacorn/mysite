@@ -761,7 +761,9 @@ font-size: .8em
 @media screen and (min-width: 768px) and (max-width: 940px) {
 
 /** MAIN **/
-
+.page-id-47438 .top-logo .title{
+	display:none;
+}
 #primary-menu{
 	display:none;
 }
@@ -795,7 +797,9 @@ font-size: .8em
 /***Desktop Styles**/
 @media screen and (min-width: 940px) {
 
-
+.page-id-47438 .top-logo .title{
+	display:none;
+}
 #about-hero{
 	color: inherit;
 	font-size: 5em;
