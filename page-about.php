@@ -11,8 +11,8 @@
 get_header(); ?>
 
 <section class="about-page">
-	<div class="about-hero">
-		<h1 id="about-hero">About</h1>
+	<div class="header">
+		<h1>A Little About Me</h1>
 	</div>		
 		
 		<div class="site-content">
@@ -29,14 +29,6 @@ get_header(); ?>
 				<p><?php the_content(); ?></p>
 			</div>
 
-			<div class="social">
-				<h3 id="contact">Contact Me</h3>
-					<ul>
-						<li><a href="https://twitter.com/@yoonacorny" target="_blank"> <i class="fa fa-twitter-square"></i>Twitter</a></li>
-    					<li><a href="https://www.linkedin.com/in/yoonawagener" target="_blank"><i class="fa fa-linkedin-square"></i>LinkedIn</a></li>
-    					<li><i class="fa fa-envelope"></i><span class="email">yoonawagener[@]gmail[dot]com</span></li>
-    				</ul>	
-			</div>	
 	
 		</div>
 </section>

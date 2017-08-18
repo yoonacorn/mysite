@@ -18,7 +18,7 @@ get_header(); ?>
 			<?php endwhile; ?>
 		</div>
 	
-	<?php get_sidebar(); ?>
+
 	</div>
 
 	<div id="navigation" class="container">

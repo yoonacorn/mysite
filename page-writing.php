@@ -11,10 +11,14 @@
 get_header(); ?>
 
 <section class="writing-page">
-	<div class="writing-hero">
-		<h1 id="hero">Writing</h1>
-		</div>		
+	<div class="header">
+		<h1>Writing</h1>
+		<p>Are you looking for a blogger or a content strategist for your website? Here's a sample of some of my work.</p>
+		<p>If you’re stuck with how to get get started with building content for a new or existing site, I can help you create a blogging and content calendar, optimized content for SEO, and map a social media strategy.</p>   
+		</div>	
+
 	<div class="site-content">
+
 			<?php while ( have_posts() ) : the_post(); 
 				$client_1 = get_field( 'client_1');
 				$client_2 = get_field( 'client_2');

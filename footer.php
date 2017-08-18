@@ -14,11 +14,16 @@
 		</div><!-- #main -->
 	</div><!-- #page -->
 		<footer class="main-footer">
-			<ul>
-				<li>&copy; 2017 yoonawagener.com</li>
-				 <li><span>|</span></li>
-				 <li class="credit">Code & Design by Yoona Wagener</li>
-			</ul>	 
+				<p class="credit">&copy; 2017 yoonawagener.com<br/>  
+				Code & Design by Yoona Wagener</p>
+
+			<div class="social">
+					<ul>
+						<li><a href="https://twitter.com/@yoonacorny" target="_blank"> <i class="fa fa-twitter-square"></i></a></li>
+    					<li><a href="https://www.linkedin.com/in/yoonawagener" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+    				</ul>	
+			</div>
+	 
 		</footer>	
 	<?php wp_footer(); ?>
 

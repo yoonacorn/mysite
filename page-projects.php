@@ -11,8 +11,11 @@
 get_header(); ?>
 
 <section class="projects-page">
-	<div class="projects-hero">
-		<h1 id="hero">Projects</h1>
+	<div class="header">
+		<h1>Projects</h1>
+		<p>Do you have an existing WordPress site you’d like to spruce up? Need a new theme, a <span class="mission">custom-built site</span>, or a <span class="mission">responsive redesign</span>? I can do that for you. Let’s talk about <span class="mission">customizing your existing theme</span> or finding a new one that fits your vision.</p>
+
+		<p>We can work with a design you have in mind, collaborate with a designer, or choose and customize a theme that works best for you.</p>
 	</div>		
 	<div class="site-content">
 		<?php while ( have_posts() ) : the_post(); 
@@ -42,7 +45,6 @@ get_header(); ?>
 				$project_6_link = get_field( 'project_6_link');
 				$size = "full";
 		?>	
-
 		<section class="projects" id="content">
 				<div class="project-1 project-item">
 					<h4><?php echo $project_1; ?></h4>

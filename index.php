@@ -17,8 +17,9 @@
 get_header(); ?>
 
 <section class="index-page">
-	<div class="blog-hero">
-		<h1 id="hero">Blog</h1>
+	<div class="header">
+		<h1>Blog</h1>
+		<p>Someone once told me I was good at computer. Musings about that, freelancing, my coding journeys, and other whimsies.<p>
 	</div>	
 	<div class="site-content">
 		<div class="blog-content">
@@ -29,7 +30,7 @@ get_header(); ?>
 		<?php endif; ?> 
 		</div>
 	
-	<?php get_sidebar(); ?>
+
 	</div>
 </section>	
 

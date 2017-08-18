@@ -18,4 +18,4 @@ get_header(); ?>
 	</div>		
 </section><!-- #content -->
 
-
+<?php get_footer(); ?>
