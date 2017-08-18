@@ -786,7 +786,9 @@ nav:hover ul {
 	font-size: 1.125em;
 }
 
-
+.single-page .site-content{
+	border-top: 0;
+}
 
 }
 
