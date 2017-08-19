@@ -19,7 +19,7 @@ get_header(); ?>
 <section class="index-page">
 	<div class="header">
 		<h1>Blog</h1>
-		<p>Someone once told me I was good at computer. Musings about that, freelancing, my coding journeys, and other whimsies.<p>
+		<p>A space for musing about freelancing, digital nomading, tech, productivity, and learning on the interwebs.<p>
 	</div>	
 	<div class="site-content">
 		<div class="blog-content">
