@@ -671,7 +671,8 @@ a.button, a.button:link {
 
 #menu-icon{
 	width:50px;
-	height:40px;
+	height:43px;
+	padding-top: 5px;
 	display:block;
 	background: #698B97;
 	color: #fff;
