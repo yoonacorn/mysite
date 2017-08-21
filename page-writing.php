@@ -13,8 +13,7 @@ get_header(); ?>
 <section class="writing-page">
 	<div class="header">
 		<h1>Writing</h1>
-		<p>Are you looking for a blogger or a content strategist for your website? Here's a sample of some of my work.</p>
-		<p>If you’re stuck with how to get get started with building content for a new or existing site, I can help you create a blogging and content calendar, optimized content for SEO, and map a social media strategy.</p>   
+		<p>Are you looking for a <span class="mission">blogger</span> or a <span class="mission">content strategist</span> for your new or existing website? Get in touch. I can help you create a blogging and content calendar, optimized content for SEO, and assist with mapping a social media strategy.</p>  
 		</div>	
 
 	<div class="site-content">
@@ -61,7 +60,7 @@ get_header(); ?>
 
 		<div class="client-1">
 			<h4><?php echo $client_1; ?></h4>
-			<div class="client-1-writing">
+			<div class="client-1-writing" id="writing">
 				<ul>
 					<li><a href="<?php echo $article_1; ?>" target="_blank" rel="noopener noreferrer">Maxing Out on Comfort in Passive Houses</a></li>
 					<li><a href="<?php echo $article_2; ?>" target="_blank" rel="noopener noreferrer">Charging Up: An Intro to Energy Storage</a></li>
@@ -73,9 +72,9 @@ get_header(); ?>
 				</ul>	
 		</div>
 		
-		<div class="client-2">
+		<div class="client-2" >
 			<h4><?php echo $client_2; ?></h4>
-			<div class="client-2-writing">
+			<div class="client-2-writing" id="writing">
 				<ul>
 					<li><a href="<?php echo $article_8; ?>" target="_blank" rel="noopener noreferrer">John Chang: Work Hard, Never Stop</a></li>
 					<li><a href="<?php echo $article_9; ?>" target="_blank" rel="noopener noreferrer">Bethany Powell: Designer, Curator, Storyteller</a></li>
@@ -87,9 +86,9 @@ get_header(); ?>
 		</div>	
 	
 	
-		<div class="client-3">
+		<div class="client-3" >
 			<h4><?php echo $client_3; ?></h4>
-			<div class="client-3-writing">
+			<div class="client-3-writing" id="writing">
 				<ul>
 					<li><a href="<?php echo $article_14; ?>" target="_blank" rel="noopener noreferrer">Championing our Young Dreamers Through College and Beyond</a></li>
 					<li><a href="<?php echo $article_15; ?>" target="_blank" rel="noopener noreferrer">SOS Illinois Youth Speaks at "Leave No One Behind" Dialogue Series</a></li>
@@ -102,9 +101,9 @@ get_header(); ?>
 		</div>	
 		
 
-		<div class="client-4">
+		<div class="client-4" >
 			<h4><?php echo $client_4; ?></h4>
-			<div class="client-4-writing">
+			<div class="client-4-writing" id="writing">
 				<ul>
 					<li><a href="<?php echo $article_21; ?>" target="_blank" rel="noopener noreferrer">Product Update: December 2016</a></li>
 					<li><a href="<?php echo $article_22; ?>" target="_blank" rel="noopener noreferrer">Announcing TaxLink for Lacerte 2016</a></li>
