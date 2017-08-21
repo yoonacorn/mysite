@@ -116,7 +116,7 @@ body {
 .site-content{
     width: 96%;
     margin: 0 auto;
-    padding: 1em;
+    padding: 3em 1em;
     border-top: 2px solid #e0caba;
 }
 
@@ -139,11 +139,11 @@ h2{
 
 h3{
 	font-size: 1.7em;
-	padding-bottom: 1em;
+	padding: 1em 0;
 }
 
 h4{
-	font-size: 1.2em;
+	font-size: 1.1em;
 	font-family: 'Montserrat', sans-serif;
 	padding: 1em 0;
 	text-transform: uppercase;
@@ -261,7 +261,7 @@ a.button, a.button:link {
 
 }
 .services-overview{
-	padding-top: 2em;
+	padding: 2em 0;
 	margin-bottom: 2em;
 	border-top: 1px solid #698b97;
 	border-bottom: 1px solid #698b97;
@@ -287,14 +287,10 @@ a.button, a.button:link {
 
 /** ABOUT styles **/
 
-
+.bio-pic{
+	padding:3em 0;
+}
   
-.page-id-47625 h3{
-    text-align: center;
-}
-.about-page .bio{
-	text-align: center;
-}
 
 /** PROJECTS styles **/
 
@@ -737,6 +733,7 @@ nav:hover ul {
 .site-content{
 	width: 75%;
 	min-height: 645px;
+	padding-top: 3em;
 }
 .page-header{
 	padding:0;
@@ -769,7 +766,7 @@ nav:hover ul {
 }
 
 .header{
-	margin:2em 5em;
+	margin:2em 5em 0;
 	padding-top: 5em;
 	text-align: center;
 
@@ -781,6 +778,15 @@ nav:hover ul {
 
 .header p{
 	padding-bottom: 2em;
+}
+
+
+.page-id-47348 #writing{
+	text-align: center;
+	padding-bottom: 2em;
+}
+.page-id-47348 ul, .page-id-47348 li{
+	margin-left:0;
 }
 
 .contact{
@@ -810,6 +816,9 @@ h3{
 	font-size: 3em;
 }
 
+h4{
+	font-size: 1.5em;
+}
 
 .bio-pic{
 	width: 400px;
@@ -819,7 +828,6 @@ h3{
 
 .about-page .bio{
 	text-align: left;
-	margin-bottom: 20em;
 }
 
 .site-content{
@@ -858,7 +866,6 @@ a.button{
 }
 
 
-
 .projects #content {
 	width: 96%;
 	margin: 0 auto;
@@ -866,9 +873,10 @@ a.button{
 
 /** Writing **/
 
-.page-id-47348 ul{
+/*.page-id-47348 ul{
 	text-align: center;
-}
+}*/
+
 
 /** Blog **/
 
