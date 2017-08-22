@@ -352,6 +352,18 @@ a.button, a.button:link {
 .entry-summary {
 	font-size: 0.94em;
 }
+
+.entry-summary h2{
+	margin: .5em;
+	padding: 1em 0;
+}
+
+.entry-summary h3{
+	font-family: 'Open Sans', serif;
+	font-size: 1.4em;
+	margin: .5em;
+	text-align: justify;
+}
 .entry-summary .wp-caption {
 	margin: 25px 0;
 	width: 100%;
