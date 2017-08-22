@@ -364,6 +364,10 @@ a.button, a.button:link {
 	margin: .5em;
 	text-align: justify;
 }
+
+.entry-summary ul, ol{
+	margin: 1em;
+}
 .entry-summary .wp-caption {
 	margin: 25px 0;
 	width: 100%;
