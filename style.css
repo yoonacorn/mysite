@@ -514,6 +514,10 @@ a.button, a.button:link {
 /* End next / prev */
 
 /* single posts */
+
+.single-page .site-content{
+	border-top: 0;
+}
 .single .post-entry {
 	border-bottom: none;
 }
@@ -809,9 +813,7 @@ nav:hover ul {
 	font-size: 1.125em;
 }
 
-.single-page .site-content{
-	border-top: 0;
-}
+
 
 }
 
