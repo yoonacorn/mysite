@@ -227,7 +227,8 @@ a.button, a.button:link {
 #menu-item-47554,
 #menu-item-47752,
 #menu-item-47618,
-#menu-item-47456
+#menu-item-47456,
+#menu-item-47838
 {
 	display:inline-block;
 	margin: 0 auto;
@@ -262,10 +263,11 @@ a.button, a.button:link {
 
 }
 .services-overview{
-	padding: 2em 0;
+	padding: 2em 0 5em 0;
 	margin-bottom: 2em;
 	border-top: 1px solid #698b97;
 	border-bottom: 1px solid #698b97;
+	text-align: center;
 
 }
 .service-1-img, .service-2-img, .service-3-img{
@@ -280,6 +282,9 @@ a.button, a.button:link {
 
 }
 
+.service-3-title{
+	padding-bottom: 3em;
+}
 
 .home-page .site-content{
 	border-top: 0;
@@ -916,5 +921,16 @@ a.button{
 
 
 
+
+}
+
+@media screen and (min-width: 1440px){
+.site-content{
+	width:55%;
+}
+
+.header p{
+	margin: 2% 35%;
+}
 
 }
