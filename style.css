@@ -133,7 +133,7 @@ h1{
 }
 
 h2{
-	font-size: 1.7em;
+	font-size: 1.9em;
 	color: #2c434a;
 }
 
@@ -145,6 +145,7 @@ h3{
 h4{
 	font-size: 1.1em;
 	font-family: 'Montserrat', sans-serif;
+	font-weight:bold;
 	padding: 1em 0;
 	text-transform: uppercase;
 	text-align: center;
@@ -830,12 +831,17 @@ nav:hover ul {
 	margin: 1.5em 6em 1em 6em;
 }
 
+h2{
+	font-size: 2em;
+}
+
 h3{
 	font-size: 3em;
 }
 
 h4{
 	font-size: 1.5em;
+
 }
 
 .bio-pic{
