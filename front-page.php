@@ -53,7 +53,8 @@ get_header(); ?>
 			</div>
 			<div class="service-3-title">		 
 				<p><?php echo $service_3_title; ?></p>
-			</div>		
+			</div>
+			<a class="button" href="<?php echo home_url(); ?>/services">Take a Look</a>		
 	</div>
 
 		<?php the_content(); ?>
