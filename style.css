@@ -298,6 +298,7 @@ a.button, a.button:link {
 }
   
 
+
 /** PROJECTS styles **/
 
 .project-item{
@@ -879,6 +880,10 @@ a.button{
 }
   
 
+/** Services **/
+.services{
+	font-size: 1.3em;
+}
 
 /** Projects **/
 .page-id-47552 h4{
