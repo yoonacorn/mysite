@@ -9,10 +9,13 @@
 
 get_header(); ?>
 
-<section class="default-page">		
+<section class="default-page">
+<div class="header">
+		<h1><?php the_title(); ?></h1> 
+	</div>			
 	<div class="site-content">
 		<?php while ( have_posts() ) : the_post(); ?>
- 		<!-- 	<h1 class="entry-title"><?php the_title(); ?></h1>  -->
+ 			 
 			<article class="post-entry">
 				<?php the_content(); ?>
 			</article>
