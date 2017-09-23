@@ -218,6 +218,8 @@ a.button, a.button:link {
 	padding-bottom: 2em;
 }
 
+
+
 /*Responsive Menu*/
 
 @media screen and (min-width: 767px) {
@@ -691,7 +693,9 @@ a.button, a.button:link {
    ========================================================================== */
 @media screen and (max-width: 767px){
 
-
+.top-logo{
+	display: none;
+}
 #menu-icon{
 	width:50px;
 	height:43px;
@@ -788,9 +792,9 @@ nav:hover ul {
 	display: inline;
 }
 
-#masthead{
+/*#masthead{
 	border-bottom: 2px solid #e0caba;
-}
+}*/
 
 .header{
 	margin:2em 5em 0;
@@ -827,6 +831,14 @@ nav:hover ul {
 /***Desktop Styles**/
 @media screen and (min-width: 940px) {
 
+.title{
+	font-size: 1.5em;
+	text-transform: lowercase;
+	font-family: 'Bad Script', cursive;
+	float:left;
+	clear:both;
+	padding: .2em 0 0 .2em;
+}
 
 .header h1{
 	font-size: 6em;
