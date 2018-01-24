@@ -49,6 +49,12 @@ get_header(); ?>
 				$article_24 = get_field( 'article_24');
 				$article_25 = get_field( 'article_25');
 				$article_26 = get_field( 'article_26');
+				$article_26 = get_field( 'article_27');
+				$article_26 = get_field( 'article_28');
+				$article_26 = get_field( 'article_29');
+				$article_26 = get_field( 'article_30');
+				$article_26 = get_field( 'article_31');
+				$article_26 = get_field( 'article_32');
 				$size = "full";
 			?>
 
@@ -112,7 +118,20 @@ get_header(); ?>
 					<li><a href="<?php echo $article_25; ?>" target="_blank" rel="noopener noreferrer">Budget Status Tracking</a></li>
 					<li><a href="<?php echo $article_26; ?>" target="_blank" rel="noopener noreferrer">Understanding Your Task Dashboard</a></li>
 				</ul>	
-	</div>	
+		</div>
+
+		<div class="client-5" >
+			<h4><?php echo $client_5; ?></h4>
+			<div class="client-5-writing" id="writing">
+				<ul>
+					<li><a href="<?php echo $article_27; ?>" target="_blank" rel="noopener noreferrer">How to Make an Impact as an Introvert</a></li>
+					<li><a href="<?php echo $article_28; ?>" target="_blank" rel="noopener noreferrer">To Quit or Not to Quit | Is That Really the Question?</a></li>
+					<li><a href="<?php echo $article_29; ?>" target="_blank" rel="noopener noreferrer">10 Social-Impact Podcasts to Check Out This Winter</a></li>
+					<li><a href="<?php echo $article_30; ?>" target="_blank" rel="noopener noreferrer">How to Use Your Programming Skills for Social Impact</a></li>
+					<li><a href="<?php echo $article_31; ?>" target="_blank" rel="noopener noreferrer">Switching to the Nonprofit Sector? Here’s One Route You May Not Have Considered</a></li>
+					<li><a href="<?php echo $article_32; ?>" target="_blank" rel="noopener noreferrer">3 Ways to Streamline Your Job Search in the New Year</a></li>
+				</ul>	
+		</div>	
 
 	</div>
 </section>
