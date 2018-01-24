@@ -14,7 +14,7 @@
 		</div><!-- #main -->
 	</div><!-- #page -->
 		<footer class="main-footer">
-				<p class="credit">&copy; 2017 yoonawagener.com<br/>  
+				<p class="credit">&copy; 2018 yoonawagener.com<br/>  
 				Code & Design by Yoona Wagener</p>
 
 			<div class="social">
