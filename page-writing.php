@@ -23,6 +23,7 @@ get_header(); ?>
 				$client_2 = get_field( 'client_2');
 				$client_3 = get_field( 'client_3');
 				$client_4 = get_field( 'client_4');
+				$client_5 = get_field( 'client_5');
 				$article_1 = get_field( 'article_1');
 				$article_2 = get_field( 'article_2');
 				$article_3 = get_field( 'article_3');
