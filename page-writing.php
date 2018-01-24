@@ -14,7 +14,7 @@ get_header(); ?>
 	<div class="header">
 		<h1>Writing</h1>
 		<p>Are you looking for a <span class="mission">blogger</span> or a <span class="mission">content strategist</span> for your new or existing website? Get in touch. I can help you create a blogging and content calendar, optimized content for SEO, and assist with mapping a social media strategy.</p>  
-		</div>	
+	</div>	
 
 	<div class="site-content">
 
@@ -50,12 +50,12 @@ get_header(); ?>
 				$article_24 = get_field( 'article_24');
 				$article_25 = get_field( 'article_25');
 				$article_26 = get_field( 'article_26');
-				$article_26 = get_field( 'article_27');
-				$article_26 = get_field( 'article_28');
-				$article_26 = get_field( 'article_29');
-				$article_26 = get_field( 'article_30');
-				$article_26 = get_field( 'article_31');
-				$article_26 = get_field( 'article_32');
+				$article_27 = get_field( 'article_27');
+				$article_28 = get_field( 'article_28');
+				$article_29 = get_field( 'article_29');
+				$article_30 = get_field( 'article_30');
+				$article_31 = get_field( 'article_31');
+				$article_32 = get_field( 'article_32');
 				$size = "full";
 			?>
 
