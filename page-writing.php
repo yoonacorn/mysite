@@ -75,7 +75,8 @@ get_header(); ?>
 					<li><a href="<?php echo $article_5; ?>" target="_blank" rel="noopener noreferrer">Zero Net Energy Buildings Around the US</a></li>
 					<li><a href="<?php echo $article_6; ?>" target="_blank" rel="noopener noreferrer">Defining the Smart Grid</a></li>
 					<li><a href="<?php echo $article_7; ?>" target="_blank" rel="noopener noreferrer">Two Sides of the Same Coin: A Beginner's Guide to Hardening And Resiliency</a></li>
-				</ul>	
+				</ul>
+			</div>		
 		</div>
 		
 		<div class="client-2" >
@@ -88,7 +89,8 @@ get_header(); ?>
 					<li><a href="<?php echo $article_11; ?>">Caitlyn Panter: Examining Life After Art School</a></li>
 					<li><a href="<?php echo $article_12; ?>">Leah Miller: On Pace for Success</a></li>
 					<li><a href="<?php echo $article_13; ?>">Renee Kurilla and Keith Zulawnik: Working and Living Happily Ever After</a></li>
-				</ul>	
+				</ul>
+			</div>		
 		</div>	
 	
 	
@@ -103,7 +105,8 @@ get_header(); ?>
 					<li><a href="<?php echo $article_18; ?>" target="_blank" rel="noopener noreferrer">Springing Forward: #OurHopeTheirDreams</a></li>
 					<li><a href="<?php echo $article_19; ?>" target="_blank" rel="noopener noreferrer">Casa Tepeyac Teaches Prevention and Strengthens Community</a></li>
 					<li><a href="<?php echo $article_20; ?>" target="_blank" rel="noopener noreferrer">Prioritizing Family and Keeping Siblings Together in Foster Care</a></li>
-				</ul>	
+				</ul>
+			</div>		
 		</div>	
 		
 
@@ -118,6 +121,7 @@ get_header(); ?>
 					<li><a href="<?php echo $article_25; ?>" target="_blank" rel="noopener noreferrer">Budget Status Tracking</a></li>
 					<li><a href="<?php echo $article_26; ?>" target="_blank" rel="noopener noreferrer">Understanding Your Task Dashboard</a></li>
 				</ul>	
+			</div>	
 		</div>
 
 		<div class="client-5" >
@@ -131,6 +135,7 @@ get_header(); ?>
 					<li><a href="<?php echo $article_31; ?>" target="_blank" rel="noopener noreferrer">Switching to the Nonprofit Sector? Here’s One Route You May Not Have Considered</a></li>
 					<li><a href="<?php echo $article_32; ?>" target="_blank" rel="noopener noreferrer">3 Ways to Streamline Your Job Search in the New Year</a></li>
 				</ul>	
+			</div>	
 		</div>	
 
 	</div>
